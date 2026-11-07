@@ -1,0 +1,11 @@
+{
+  "org": "jupyterhub",
+  "repo": "jupyter-remote-desktop-proxy",
+  "versions": [
+    {
+      "commit": "390c824aeb5d90633b1803b9009195313dce0ff3",
+      "tag": "",
+      "parsed_at": "2026-11-07T00:43:39.228973+00:00"
+    }
+  ]
+}
