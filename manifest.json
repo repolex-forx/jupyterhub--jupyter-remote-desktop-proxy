@@ -1,0 +1,53 @@
+{
+  "manifest_version": "1.0",
+  "org": "jupyterhub",
+  "repo": "jupyter-remote-desktop-proxy",
+  "versions": [
+    {
+      "commit": "390c824aeb5d90633b1803b9009195313dce0ff3",
+      "parsed_at": "2026-11-07T00:40:31.199248+00:00",
+      "filetree": "filetree/390c824aeb5d90633b1803b9009195313dce0ff3.nq.gz",
+      "blobs": [
+        "blob/5454296e843d6493f02e1c622a784970ceeab9c2.nq.gz",
+        "blob/698ad83bf585ee8b8df0e7eeb52b70bc53555d73.nq.gz",
+        "blob/462ade94a4a1ee429f11e0d2ab8c33f8d7807ed0.nq.gz",
+        "blob/3ba4e72bd97081756cdf273eb626934756d47f92.nq.gz",
+        "blob/8ca052f608ad1d71b63f178f2b05acfc5b751296.nq.gz",
+        "blob/3342732175eb52f6a880e800ff9ba3baadb85244.nq.gz",
+        "blob/a998f2a7fab09afa8870259941ba674624f678c0.nq.gz",
+        "blob/38ac58ab36dd9871e1a0399bf0e5041ac1560034.nq.gz",
+        "blob/6d06a152796c0081e58874e68c16108a3e3a1f96.nq.gz",
+        "blob/e9a56a721dabbcbab38b11064272e6be1345c392.nq.gz",
+        "blob/79af2752504806f33ef522d540b240be2659fc16.nq.gz",
+        "blob/18b740d37c847b5013d2af0b7aa93a5e799b6213.nq.gz",
+        "blob/e31718ce4524b7f2ea565738d64eb6a0e8510ee6.nq.gz",
+        "blob/f72ca08c4db65411fe6aa7e8c059b9f6d3d079bd.nq.gz",
+        "blob/f909bdcae734340554ee46954e06f28c7a4e0da9.nq.gz",
+        "blob/3f08653c9cc608f7cf7ad57373dc80c97fc98d43.nq.gz",
+        "blob/425e1a746e467651bb02e8751548982653297baa.nq.gz",
+        "blob/4bcc56b76c0efe575ebe4aef889532803609f45a.nq.gz",
+        "blob/8fbbae68d67409b9d17d9d9af911783f6a73d315.nq.gz",
+        "blob/79e83891efc9fe10ce656b4e2632cb9c81fd752f.nq.gz",
+        "blob/fde0d6e3b450985e09eb4bdb96fa5cabd3ef8052.nq.gz",
+        "blob/2dedca6587ef150c2c5fbc298420bab89c2b211b.nq.gz",
+        "blob/fdb4321a2e6da722800c518e6c2f577305b7c9f4.nq.gz",
+        "blob/5e4eba104c72d96a57d29fb90613442622bf848b.nq.gz",
+        "blob/19bb484c89105da3fc9b7e1c27b9477db3e1751b.nq.gz",
+        "blob/07c4f3e655fbd49c8194cf091a052568b769a96e.nq.gz",
+        "blob/af9ec76286594b888b56f2dd0c3300ecead38877.nq.gz",
+        "blob/e9622e1f08c1a5e461cc1680a651f191af72577b.nq.gz",
+        "blob/3a63d23df2948fbc258b6cdc63e7bde2a4d3b643.nq.gz",
+        "blob/d2c0fb306b53fdde2c48b74f981151a578541877.nq.gz",
+        "blob/171e6d94bb6fd8f6f433adc81d083477090b9c8d.nq.gz",
+        "blob/89ef63638891cdf05292a1883a030e9a247f3f77.nq.gz",
+        "blob/38c3c388edbedb30d72f613eecdbc852d690aba9.nq.gz",
+        "blob/ee31dae81b67b6983e413ccbe506a958b6367909.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
